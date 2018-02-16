@@ -12,7 +12,8 @@ Developing methods and techniques to make large-scale manufacturing systems safe
 
 2. Developed robot programs to meet the needs of designed manufacturing process
 
-                            #### robot program being triggered by part RFID tag and manufacturing operations that follow as a result of an integration of Programmable Logic Controller (PLC), CNC and Robot. 
+                          #### robot program being triggered by part RFID tag and manufacturing operations that 
+                          ####follow as a result of an integration of Programmable Logic Controller (PLC), CNC and Robot. 
                             
 [![Alt text for your video](http://img.youtube.com/vi/Yc5SE5BIWjw/0.jpg)](https://www.youtube.com/watch?v=Yc5SE5BIWjw)
 
