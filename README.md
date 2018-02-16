@@ -6,20 +6,19 @@ Developing methods and techniques to make large-scale manufacturing systems safe
 ## My contribution: 
 ### Implementing interchangeable grippers for the robot
 
-                               Robot showcasing change of grippers depending on part type 
+In the video below, Robot showcases change of grippers depending on part type 
                           
 [![Alt text for your video](http://img.youtube.com/vi/n1mCFQPxFD4/0.jpg)](https://www.youtube.com/watch?v=n1mCFQPxFD4)
 
 ### Developed robot programs to meet the needs of designed manufacturing process
 
-                     robot program being triggered by part RFID tag and manufacturing operations that 
-                     follow as a result of an integration of Programmable Logic Controller (PLC), CNC and Robot. 
+In the link below, robot program being triggered by part RFID tag and manufacturing operations that follow as a result of an integration of Programmable Logic Controller (PLC), CNC and Robot. 
                             
 [![Alt text for your video](http://img.youtube.com/vi/Yc5SE5BIWjw/0.jpg)](https://www.youtube.com/watch?v=Yc5SE5BIWjw)
 
-### System level integration of Robot, Programmable Logic Controller (PLC) and Computerized Numerical Control (CNC).
+### System-level integration of Robot, Programmable Logic Controller (PLC) and Computerized Numerical Control (CNC).
 
-                               Fully automated Testbed
+In the link below, you see fully automated Testbed achieved due to system-level integration
                                
 [![Alt text for your video](http://img.youtube.com/vi/wkJNk_RJNKc/0.jpg)](https://www.youtube.com/watch?v=wkJNk_RJNKc)
 
